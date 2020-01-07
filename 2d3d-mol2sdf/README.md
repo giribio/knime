@@ -1,11 +1,17 @@
 WorkflowID: NRF18001
+
 Name : 2D3DMOLSDFConvertor
+
 Created by: Girinath Pillai
+
 Created on: Jun 26, 18
+
 KNIME ver: 3.5.3
+
 Citation: KNIME Workflows, ID NRF18001, www.nyrindia.org, Kerala, India.
 
 Nodes Required : RDKit, CDK, KNIME Chemistry Base nodes
+
 Install the free nodes from KNIME Software > Help > Install New Softwares
 
 Description:
@@ -25,4 +31,5 @@ SDF, CSV files | 3D and Table Viewer
 
 Options:
 You could save in MOL files, consider SMILES and other formats using different freely avaialble KNIME nodes.
+
 www.nyroindia.org
