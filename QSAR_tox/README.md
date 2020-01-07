@@ -1,8 +1,13 @@
 WorkflowID: NRF18002
+
 Name : VEGAQSARModels
+
 Created by: Girinath Pillai
+
 Created on: Jul 23,n18
+
 KNIME ver: 3.5.3
+
 Citation: KNIME Workflows, ID NRF18002, www.nyroindia.org, Kerala, India.
 
 Nodes : RDKit, VEGA, KNIME Chemistry
@@ -23,4 +28,5 @@ Save as CSV file - assign the output file/folder in 'CSV Writer' node and Intera
 
 Options:
 You could consider MOL2, MOL or other chemical formats and update the I/O node accordingly.
+
 www.nyroindia.org
